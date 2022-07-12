@@ -1125,3 +1125,14 @@
     - Tailwind
   made_by: Virbe Sp. z o.o.
   made_by_url: https://virbe.ai/
+-title: CoinJar
+  url: https://www.coinjar.com/
+  description: CoinJar is one of the world's longest running crypto exchanges. This website is using Strapi for managing content. 
+  categories:
+    - Blockchain
+    - Cryptocurrency
+    - Corporate website
+  frontend:
+    - React.js
+  made_by: CoinJar Team
+  made_by_url: https://www.coinjar.com/
